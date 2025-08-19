@@ -1,4 +1,3 @@
-# Whitepaper
 # 🌌 NeuroVerse – Whitepaper (Investor-Focused Edition)
 
 ---
@@ -145,6 +144,7 @@ Challenges in the AI sector:
 * API links with AI platforms.
 * Collaborations with universities.
 * Partnerships with gaming and metaverse AI projects.
+* CEX listing SOON
 
 ---
 
@@ -161,6 +161,16 @@ A fully decentralized AI economy, empowering individuals and enterprises to buil
 * Advisors from Web3 and AI sectors.
 
 ---
+## 📩 14.Community & Contact
+
+* [Website](https://neuroverse.pro/)
+* [Telegram](https://t.me/NeuroVerse_NRV)
+* [X](https://x.com/NeuroVerse_NRV)
+* [Contact]( mailto:Contact@neuroverse.pro)
+
+
+---
 
 **NeuroVerse – Building the future of AI through decentralization, ownership, and community growth.**
+
 
